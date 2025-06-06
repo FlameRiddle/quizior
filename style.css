@@ -95,6 +95,10 @@ footer{
 }
 h3{
   font-weight: bold;
+  color: whitesmoke;
+}
+h3 strong{
+  color: #DB0181;
 }
 nav{
   height: 100%;
